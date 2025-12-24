@@ -32,10 +32,6 @@ I'm a passionate software developer specializing in **C#** and **Android utility
 - 🔓 **Bootloader Unlocker** – Unlock bootloaders for various Android brands  
 - 🧰 **FRP Bypass Utility** – Simplifies bypassing Google account verification
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ctellar&show_icons=true&theme=dark)
-
 ## 📫 Contact Me
 
 - Email: mail@ctellar.com  
